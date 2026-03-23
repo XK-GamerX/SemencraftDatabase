@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "minecraftUsername": "ArielMAD",
+  "minecraftUsernameNormalized": "arielmad",
+  "updatedAt": "2026-03-23T23:49:25.340760500Z",
+  "notifications": [
+    {
+      "id": "invite_team_test123123_e45b2264_3cfdffa4",
+      "type": "team_invite",
+      "status": "pending",
+      "read": false,
+      "createdAt": "2026-03-23T23:49:25.340760500Z",
+      "teamId": "team_test123123_e45b2264",
+      "teamName": "test123123",
+      "teamColorHex": "#6FD8B4",
+      "inviterMinecraftUsername": "KhelMC"
+    }
+  ]
+}
