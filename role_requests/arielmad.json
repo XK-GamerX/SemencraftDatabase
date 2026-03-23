@@ -5,6 +5,10 @@
   "discordUserId": "672583759144681489",
   "discordUsername": "ArielMAD",
   "roleName": "Registrado",
-  "status": "pending",
-  "requestedAt": "2026-03-23T23:47:19.331380400Z"
+  "status": "completed",
+  "requestedAt": "2026-03-23T23:47:19.331380400Z",
+  "completedAt": "2026-03-23T23:47:34+00:00",
+  "guildId": "1333950171154878464",
+  "guildName": "SEMENCRAFT III",
+  "updatedAt": "2026-03-23T23:47:34+00:00"
 }
