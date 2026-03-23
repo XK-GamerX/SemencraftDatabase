@@ -9,5 +9,15 @@
   "createdAt": "2026-03-23T04:22:35.900255600Z",
   "status": "archived",
   "members": [],
-  "archivedAt": "2026-03-23T04:23:26.402450200Z"
+  "archivedAt": "2026-03-23T04:23:26.402450200Z",
+  "discordResources": {
+    "status": "deleted",
+    "cleanupStatus": "deleted",
+    "cleanedUpAt": "2026-03-23T21:34:00+00:00",
+    "roleName": "dxddxxdxdxdx d",
+    "roleColorHex": "#999933",
+    "categoryName": "dxddxxdxdxdx d",
+    "textChannelName": "\ud83d\udcac\u30fb\u1d04\u029c\u1d00\u1d1b \u1d18\u0280\u026a\u1d20",
+    "voiceChannelName": "\ud83d\udd0a\u30fb\u1d20\u1d04 \u1d18\u0280\u026a\u1d20\u1d00\u1d05\u1d0f"
+  }
 }
