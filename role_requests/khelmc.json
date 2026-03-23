@@ -5,7 +5,10 @@
   "discordUserId": "1149454008436662393",
   "discordUsername": "khelifyy",
   "roleName": "Registrado",
-  "status": "role_missing",
+  "status": "completed",
   "requestedAt": "2026-03-23T02:50:14.358578700Z",
-  "updatedAt": "2026-03-23T02:53:35+00:00"
+  "updatedAt": "2026-03-23T02:57:32+00:00",
+  "completedAt": "2026-03-23T02:57:32+00:00",
+  "guildId": "1333950171154878464",
+  "guildName": "SEMENCRAFT III"
 }
