@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "minecraftUsername": "KhelMC",
   "minecraftUsernameNormalized": "khelmc",
-  "updatedAt": "2026-03-23T23:53:07.240666200Z",
+  "updatedAt": "2026-03-23T23:53:30.696461300Z",
   "notifications": [
     {
       "id": "info_b600fc1445",
       "type": "team_info",
       "status": "info",
-      "read": false,
+      "read": true,
       "createdAt": "2026-03-23T23:53:07.240666200Z",
       "message": "Miembro nuevo: ArielMAD se unio al equipo \u0027test123123\u0027.",
       "teamId": "team_test123123_e45b2264",
