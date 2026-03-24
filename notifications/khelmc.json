@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "minecraftUsername": "KhelMC",
   "minecraftUsernameNormalized": "khelmc",
-  "updatedAt": "2026-03-24T02:29:03.633047400Z",
+  "updatedAt": "2026-03-24T02:29:09.540493700Z",
   "notifications": [
     {
       "id": "info_b600fc1445",
@@ -19,7 +19,7 @@
       "id": "info_a7f23880fb",
       "type": "team_info",
       "status": "info",
-      "read": false,
+      "read": true,
       "createdAt": "2026-03-24T02:29:03.633047400Z",
       "message": "Miembro nuevo: Semmie se unio al equipo \u0027test222\u0027.",
       "teamId": "team_test222_f03a9469",
