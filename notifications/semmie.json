@@ -2,18 +2,19 @@
   "schemaVersion": 1,
   "minecraftUsername": "Semmie",
   "minecraftUsernameNormalized": "semmie",
-  "updatedAt": "2026-03-24T02:28:37.533508100Z",
+  "updatedAt": "2026-03-24T02:29:01.188572200Z",
   "notifications": [
     {
       "id": "invite_team_test222_f03a9469_f8b57cec",
       "type": "team_invite",
-      "status": "pending",
+      "status": "accepted",
       "read": true,
       "createdAt": "2026-03-24T02:28:21.336789500Z",
       "teamId": "team_test222_f03a9469",
       "teamName": "test222",
       "teamColorHex": "#FF9F6E",
-      "inviterMinecraftUsername": "KhelMC"
+      "inviterMinecraftUsername": "KhelMC",
+      "resolvedAt": "2026-03-24T02:29:01.188572200Z"
     }
   ]
 }
