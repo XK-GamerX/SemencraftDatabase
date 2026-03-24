@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "minecraftUsername": "Semmie",
   "minecraftUsernameNormalized": "semmie",
-  "updatedAt": "2026-03-24T02:33:56.825587800Z",
+  "updatedAt": "2026-03-24T02:35:14.753524300Z",
   "notifications": [
     {
       "id": "invite_team_test222_f03a9469_f8b57cec",
@@ -31,7 +31,7 @@
       "id": "invite_team_test222_f03a9469_98768322",
       "type": "team_invite",
       "status": "pending",
-      "read": false,
+      "read": true,
       "createdAt": "2026-03-24T02:33:56.825587800Z",
       "teamId": "team_test222_f03a9469",
       "teamName": "test222",
