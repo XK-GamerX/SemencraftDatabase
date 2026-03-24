@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "minecraftUsername": "KhelMC",
   "minecraftUsernameNormalized": "khelmc",
-  "updatedAt": "2026-03-23T23:55:14.956300400Z",
+  "updatedAt": "2026-03-24T02:29:03.633047400Z",
   "notifications": [
     {
       "id": "info_b600fc1445",
@@ -13,6 +13,17 @@
       "message": "Miembro nuevo: ArielMAD se unio al equipo \u0027test123123\u0027.",
       "teamId": "team_test123123_e45b2264",
       "teamName": "xddxd",
+      "teamColorHex": "#FF9F6E"
+    },
+    {
+      "id": "info_a7f23880fb",
+      "type": "team_info",
+      "status": "info",
+      "read": false,
+      "createdAt": "2026-03-24T02:29:03.633047400Z",
+      "message": "Miembro nuevo: Semmie se unio al equipo \u0027test222\u0027.",
+      "teamId": "team_test222_f03a9469",
+      "teamName": "test222",
       "teamColorHex": "#FF9F6E"
     }
   ]
