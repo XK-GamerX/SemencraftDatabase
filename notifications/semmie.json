@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "minecraftUsername": "Semmie",
   "minecraftUsernameNormalized": "semmie",
-  "updatedAt": "2026-03-24T02:32:45.764788100Z",
+  "updatedAt": "2026-03-24T02:33:41.864750300Z",
   "notifications": [
     {
       "id": "invite_team_test222_f03a9469_f8b57cec",
@@ -20,7 +20,7 @@
       "id": "info_e4ce7efd4d",
       "type": "team_info",
       "status": "info",
-      "read": false,
+      "read": true,
       "createdAt": "2026-03-24T02:32:45.764788100Z",
       "message": "Expulsion: Fuiste expulsado del equipo \u0027test222\u0027.",
       "teamId": "team_test222_f03a9469",
